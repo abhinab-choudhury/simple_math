@@ -1,0 +1,29 @@
+{
+  "name": "simple_math",
+  "version": "1.0.0",
+  "description": "This is a API with return result to simple mathematical operations.It used nodejs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhinab-choudhury/simple_math.git"
+  },
+  "keywords": [
+    "nodejs",
+    "backend",
+    "API",
+    "npm"
+  ],
+  "author": "abhinab-choudhury",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhinab-choudhury/simple_math/issues"
+  },
+  "homepage": "https://github.com/abhinab-choudhury/simple_math#readme",
+  "dependencies": {
+    "url": "^0.11.3"
+  }
+}
