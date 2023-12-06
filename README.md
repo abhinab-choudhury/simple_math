@@ -6,7 +6,7 @@ This is a simple API written in core js
 
 - You should have node installed on your machine to run this localy
 - Clone this Repo
-- Install node modules `npm install` in terminal [inside this clone project]
+- Install node modules `npm install`
 - Run : `npm run start` 
 
 ## Routes :
